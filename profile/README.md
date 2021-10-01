@@ -4,6 +4,7 @@
 [source]: https://github.com/PlaceholderAPI/PlaceholderAPI
 [bstats]: https://bstats.org/plugin/bukkit/PlaceholderAPI
 [discord]: https://discord.gg/HelpChat
+[ecloud]: https://api.extendedclip.com/home/
 
 <!-- Images -->
 [logo]: https://raw.githubusercontent.com/PlaceholderAPI/PlaceholderAPI/master/wiki/img/papi-logo.png
@@ -24,3 +25,4 @@ We welcome contributions towards PlaceholderAPI or any of the expansions, be it 
 - [Source Code][source]
 - [bStats]
 - [Discord Server][discord]
+- [eCloud]

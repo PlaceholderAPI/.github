@@ -6,7 +6,7 @@
 [discord]: https://discord.gg/HelpChat
 
 <!-- Images -->
-[logo]: https://raw.githubusercontent.com/PlaceholderAPI/PlaceholderAPI/master/wiki/img/logo.png
+[logo]: https://raw.githubusercontent.com/PlaceholderAPI/PlaceholderAPI/master/wiki/img/papi-logo.png
 
 [![logo]][spigot]
 

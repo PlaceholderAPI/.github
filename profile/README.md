@@ -13,7 +13,7 @@
 
 PlaceholderAPI is a must-have Spigot plugin that allows other plugins to use and share thousands of placeholders without requiring to depend on them!
 
-It has been downloaded over 500,000 times since its first release and is concurrently on over 200,000 servers, making it one of the most used Plugins on Spigot.
+It has been downloaded over 750,000 times since its first release and is concurrently on over 200,000 servers, making it one of the most used Plugins on Spigot.
 
 ## About this Organisation
 This GitHub Organisation is the home of the Source Code of PlaceholderAPI, but also contains various Expansions for all kinds of things.  

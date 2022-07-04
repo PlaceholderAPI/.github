@@ -7,7 +7,7 @@
 [ecloud]: https://api.extendedclip.com/home/
 
 <!-- Images -->
-[logo]: https://raw.githubusercontent.com/PlaceholderAPI/PlaceholderAPI/master/wiki/img/papi-logo.png
+[logo]: https://raw.githubusercontent.com/PlaceholderAPI/PlaceholderAPI/wiki/img/papi-logo.png
 
 [![logo]][spigot]
 

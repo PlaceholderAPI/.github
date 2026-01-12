@@ -7,7 +7,7 @@
 [source]: https://github.com/PlaceholderAPI/PlaceholderAPI
 [bstats]: https://bstats.org/plugin/bukkit/PlaceholderAPI
 [discord]: https://discord.gg/HelpChat
-[ecloud]: https://api.extendedclip.com/home/
+[ecloud]: https://ecloud.placeholderapi.com
 
 <!-- Images -->
 [logo]: https://wiki.placeholderapi.com/assets/img/papi-logo.png

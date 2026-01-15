@@ -2,7 +2,6 @@
 [spigot]: https://www.spigotmc.org/resources/6245/
 [hangarmc]: https://hangar.papermc.io/HelpChat/PlaceholderAPI
 [modrinth]: https://modrinth.com/plugin/placeholderapi
-[builtbybit]: https://builtbybit.com/resources/placeholderapi.24306/
 [dev]: http://ci.extendedclip.com/job/PlaceholderAPI/
 [source]: https://github.com/PlaceholderAPI/PlaceholderAPI
 [bstats]: https://bstats.org/plugin/bukkit/PlaceholderAPI
@@ -26,7 +25,6 @@ We welcome contributions towards PlaceholderAPI or any of the expansions, be it 
 - [Spigot]
 - [HangarMC]
 - [Modrinth]
-- [BuiltByBit]
 - [Development Builds][dev]
 - [Source Code][source]
 - [bStats]
